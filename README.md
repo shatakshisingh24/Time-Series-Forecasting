@@ -13,3 +13,16 @@ Useful Resources:
 >Why do we need AutoARIMA?
 >Auto ARIMA implementation (on air passengers dataset)
 >How does auto ARIMA selects parameters?
+
+
+
+
+
+
+“Time Series Analysis” by James Douglas Hamilton
+“The Analysis of Time Series: An Introduction” by Chris Chatfield
+“Forecasting: Principles and Practice” by Rob J. Hyndman and George Athanasopoulos
+“Introduction to Time Series Analysis and Forecasting” by Douglas C. Montgomery, Cheryl L. Jennings, and Murat Kulahci
+“Practical Time Series Forecasting with R: A Hands-On Guide” by Galit Shmueli and Kenneth C. Lichtendahl Jr.
+“Introductory Time Series with R (Use R!)” by Paul S.P. Cowpertwait and Andrew V. Metcalfe
+“Time Series Analysis: Forecasting and Control” by George E. P. Box, Gwilym M. Jenkins, Gregory C. Reinsel, and Greta M. Ljung
